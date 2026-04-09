@@ -59,7 +59,7 @@ You can view the portfolio by opening the HTML file in your browser.
 
 🎯 Goal
 
-I am currently looking for AI/ML internship opportunities where I can apply my skills, work on real-world problems, and grow as a developer.
+I am currently looking for AI/ML Engineer & Python Full Stack Developer opportunities where I can apply my skills, work on real-world problems, and grow as a developer.
 
 ⭐ Support
 
